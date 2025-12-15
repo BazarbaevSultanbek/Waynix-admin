@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
-import Hotels from "./pages/hotels";
+import Hotels from "./pages/Hotels";
 import AddHotel from "./pages/addHotels";
 
 
